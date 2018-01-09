@@ -58,7 +58,7 @@ entity, along with an instance variable of type ArrayList<Integer> for storing a
 game ratings throughout the League. I decided to use a enumerator to hold the positions
 since they’re a constant in football.
 
-[[https://github.com/nouniformdat/Extreme-Blue-Backend-Challenge/images/T1.png/]]
+[[https://github.com/nouniformday/Extreme-Blue-Backend-Challenge/images/T1.png/]]
 
 Task 2:
 
