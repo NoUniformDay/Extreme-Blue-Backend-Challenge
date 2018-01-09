@@ -58,7 +58,8 @@ entity, along with an instance variable of type ArrayList<Integer> for storing a
 game ratings throughout the League. I decided to use a enumerator to hold the positions
 since they’re a constant in football.
 
-[[https://github.com/NoUniformDay/Extreme-Blue-Backend-Challenge/tree/master/images/T1.png/] 
+![image](https://user-images.githubusercontent.com/10212327/34737836-352c5758-f56f-11e7-87ce-68dda437d9da.png)
+
 
 Task 2:
 
@@ -67,7 +68,9 @@ sets of formations 4-4- 2, 4-3- 3, etc.
 Write a piece of code that returns a set team of 11 players depending on the formation
 selected.
 
-[[https://github.com/NoUniformDay/Extreme-Blue-Backend-Challenge/tree/master/images/T2A.png/]
-[[https://github.com/NoUniformDay/Extreme-Blue-Backend-Challenge/tree/master/images/T2B.png/]
+![image](https://user-images.githubusercontent.com/10212327/34737938-7d30011c-f56f-11e7-8f63-50589f2f7cd6.png)
+
+![image](https://user-images.githubusercontent.com/10212327/34737983-9d9277fa-f56f-11e7-8ff9-19fc7d652e1d.png)
+
 
 
