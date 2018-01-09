@@ -52,12 +52,13 @@ dedicated points for each skills to return a numerical rating for that game and 
 to the Players running total for the current league.
 
 The Player entity holds a Many-to-One relationship with Team. I was considering
-including a separate Rating ​entity for calculating a player’s rating based on desirable
+including a separate Rating entity for calculating a player’s rating based on desirable
 metrics, but instead for simplicity I included it as a instance method for the Player
 entity, along with an instance variable of type ArrayList<Integer> for storing a player’s 
 game ratings throughout the League. I decided to use a enumerator to hold the positions
 since they’re a constant in football.
 
+[[https://github.com/nouniformdat/Extreme-Blue-Backend-Challenge/images/T1.png/]]
 
 Task 2:
 
