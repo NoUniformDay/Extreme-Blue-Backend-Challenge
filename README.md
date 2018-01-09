@@ -68,8 +68,7 @@ sets of formations 4-4- 2, 4-3- 3, etc.
 Write a piece of code that returns a set team of 11 players depending on the formation
 selected.
 
-![image](https://user-images.githubusercontent.com/10212327/34737938-7d30011c-f56f-11e7-8f63-50589f2f7cd6.png)
-
+![image](https://user-images.githubusercontent.com/10212327/34738053-c3f964f8-f56f-11e7-888d-1a1b1f7acf4e.png)
 ![image](https://user-images.githubusercontent.com/10212327/34737983-9d9277fa-f56f-11e7-8ff9-19fc7d652e1d.png)
 
 
